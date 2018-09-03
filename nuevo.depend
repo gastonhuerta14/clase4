@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535980686 source:d:\huerta\nuevo\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
+1535981505 d:\huerta\nuevo\biblioteca.h
+
+1535980837 source:d:\huerta\nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
